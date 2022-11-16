@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <SightsDataBase>
+        <sight
+               NAME="Eiffel Tower"
+               CITY="Paris"
+               TYPE="Tower"
+               HEIGHT ="300 m"
+               AGE="XIX century">
+        </sight>
+        <sight
+               NAME="Louvre"
+               CITY="Paris"
+               TYPE="Museum"
+               AGE="XVIII century">
+        </sight>
+        <sight
+               NAME="Notre-Dame de Paris"
+               CITY="Paris"
+               TYPE="Cathedral"
+               AGE="XIV century">
+        </sight>
+        <sight
+               NAME="Champs-Élysées"
+               CITY="Paris"
+               TYPE="Street">
+        </sight>
+        <sight
+               NAME="Colosseum"
+               CITY="Rome"
+               AGE="I century">
+        </sight>
+        <sight
+               NAME="Leaning Tower of Pisa"
+               CITY="Pisa"
+               TYPE="Tower"
+               HEIGHT="56,8 m"
+               AGE="XIV century">
+        </sight>
+        <sight
+               NAME="Sistine Chapel"
+               CITY="Vatican"
+               TYPE="Church"
+               AGE="XV century">
+        </sight>
+        <sight
+               NAME="Pantheon"
+               CITY="Rome"
+               TYPE="Temple"
+               AGE="II century">
+        </sight>
+        <sight
+               NAME="Leonardo da Vinci Museum"
+               CITY="Venice"
+               TYPE="Museum">
+        </sight>
+        <sight
+               NAME="Independence Square"
+               CITY="Kyiv"
+               TYPE="Square">
+        </sight>
+        <sight
+               NAME="Khreshchatyk"
+               CITY="Kyiv"
+               TYPE="Street">
+        </sight>
+        <sight
+               NAME="Golden Gate"
+               CITY="Kyiv"
+               TYPE="Fortification"
+               AGE="XI century">
+        </sight>
+        <sight
+               NAME="Motherland"
+               CITY="Kyiv"
+               TYPE="Statue"
+               HEIGHT="102 m"
+               AGE="XX century">
+        </sight>
+        <sight
+               NAME="Bukovel"
+               TYPE="Entertainment">
+        </sight>
+        <sight
+               NAME="Askania-Nova"
+               TYPE="Biosphere reserve">
+        </sight>
+        <sight
+               NAME="Kamianets-Podilskyi Castle"
+               CITY="Kamianets-Podilskyi"
+               TYPE="Castle"
+               AGE="XII century">
+        </sight>
+        <sight
+               NAME="Mariinskyi Park"
+               CITY="Kyiv"
+               TYPE="Urban park">
+        </sight>
+        <sight
+               NAME="Big Ben"
+               CITY="London"
+               TYPE="Tower"
+               HEIGHT="96 m"
+               AGE="XIX century">
+        </sight>
+        <sight
+               NAME="Buckingham Palace"
+               CITY="London"
+               TYPE="Palace"
+               ADDRESS="XVIII century">
+        </sight>
+        <sight
+               NAME="Sherlock Holmes Museum"
+               CITY="London"
+               TYPE="Museum">
+        </sight>
+        <sight
+               NAME="Westminster Abbey"
+               CITY="London"
+               TYPE="Church"
+               ADDRESS="XI century">
+        </sight>
+        <sight
+               NAME="Trafalgar Square"
+               CITY="London"
+               TYPE="Square">
+        </sight>
+        <sight
+               NAME="Stonehenge"
+               TYPE="Monument"
+               AGE="XXX century BC">
+        </sight>
+        <sight
+               NAME="Tower Bridge"
+               TYPE="Bridge"
+               AGE="XIX century">
+        </sight>
+        <sight
+               NAME="Christ the Redeemer"
+               CITY="Rio de Janeiro"
+               TYPE="Statue"
+               HEIGHT="38 m"
+               AGE="XX century">
+        </sight>
+        <sight
+               NAME="Machu Picchu"
+               TYPE="Citadel"
+               AGE="XV century">
+        </sight>
+        <sight
+               NAME="Statue of Liberty"
+               CITY="New York"
+               TYPE="Statue"
+               HEIGHT="93 m"
+               AGE="XIX century">
+        </sight>
+        <sight
+               NAME="Golden Gate Bridge"
+               CITY="San Francisco"
+               TYPE="Bridge"
+               AGE="XX century">
+        </sight>
+        <sight
+               NAME="Grand Canyon"
+               TYPE="Canyon">
+        </sight>
+        <sight
+               NAME="Disneyland"
+               CITY="Anaheim"
+               TYPE="Entertainment">
+        </sight>
+        <sight
+               NAME="Central Park"
+               CITY="New York"
+               TYPE="Urban Park">
+        </sight>
+        <sight
+               NAME="Stanley Park"
+               CITY="Vancouver"
+               TYPE="Urban park">
+        </sight>
+        <sight
+               NAME="CN Tower"
+               CITY="Toronto"
+               TYPE="Tower"
+               HEIGHT="553 m"
+               AGE="XX century">
+        </sight>
+  </SightsDataBase>
